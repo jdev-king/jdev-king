@@ -1,48 +1,64 @@
-# 👋 Hello! I'm Jesus Diez  
+# 👋 Hi, I'm Jesus Sebastian Diez Plasencia
 
-Welcome to my GitHub profile! I’m a **semi-senior software developer** and **AI Engineer** passionate about building high-impact, personalized AI solutions.  
-
----
-
-## 🧑‍💻 About Me  
-- 🎓 **AI Specialist** with expertise in **Python** and **TypeScript**.  
-- 🚀 **Focus Areas:**  
-  - **Computer Vision**  
-  - **Natural Language Processing (NLP)**  
-  - **Generative AI**  
-  - **Text-to-Speech**  
-  - **Large Language Models**  
-- 🌟 **Motivation:** Continuously learning about new AI technologies and developing solutions to solve real-world problems effectively.  
-- 💡 Enthusiastic, curious, and always looking for innovative solutions.  
+🎯 **AI Engineer | Full Stack Developer**  
+📍 Lima, Perú | Milan, Italy  
+📫 [jesussebastiandiezplasencia@gmail.com](mailto:jesussebastiandiezplasencia@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/jesusdiezp) | [Medium](https://medium.com/@jdev-king) | [GitHub](https://github.com/jdev-king)
 
 ---
 
-## 🌟 Achievements and Certifications  
-- 🏆 Multiple **Skill Badges** from **Google Skill Boosters** in **ML** and **AI**, including **Vertex AI** and **BigQuery**.  
-- 📜 Currently preparing for the **Google Machine Learning Engineer Certification**.  
-- 🎉 Active participant in events such as:  
-  - **Google Developer Group**  
-  - **AWS**  
-  - **Zeal Fund Hackathon**  
+## 🧠 About Me
+
+I'm an AI Engineer and Full Stack Developer passionate about building intelligent, scalable systems that bridge the gap between cutting-edge research and real-world impact. With experience across startups and enterprise projects, I specialize in:
+
+- 🚀 **End-to-End AI Solutions**: From ideation to deployment
+- 💬 **Conversational AI**: GPT-4 agents, LangChain, prompt engineering
+- 🌐 **Web Applications**: FastAPI + Angular 17
+- ☁️ **Cloud Infrastructure**: Google Cloud Platform (Vertex AI, Document AI)
+- ⚙️ **Automation & DevOps**: CI/CD, Docker, Flowise, Pinecone
+
+I'm driven by curiosity, collaboration, and the thrill of turning complex ideas into polished products.
 
 ---
 
-## 🤝 Collaborations  
-I’m open to collaborating on projects related to:  
-- 🖼️ **Computer Vision**  
-- ✍️ **NLP**  
-- 🎨 **Generative AI**  
-- 🗣️ **Text-to-Speech**  
-- 🤖 **Large Language Models**  
+## 🛠️ Tech Stack
 
-If you have an interesting project or an innovative idea, feel free to reach out!  
-
----
-
-## 🌐 Communities and Connections  
-- Active member of communities like **LLaMA** and **Flowise**, staying updated on the latest AI trends.  
+**Languages:** Python, Java, JavaScript, SQL  
+**Frameworks:** Angular, FastAPI, LangChain  
+**AI/ML:** GPT-4, Claude, Prompt Engineering, Flowise  
+**Cloud & Infra:** GCP, Docker, MCP Servers  
+**Automation:** N8N, CI/CD Pipelines  
+**Testing:** Jest, Mockito  
+**Design:** Figma, Responsive UI/UX  
 
 ---
 
-## 📫 Contact Me  
-Feel free to reach out via jesussebastiandiezplasencia@gmail.com or directly through this profile. Let’s create something amazing together! 🚀
+## 📌 Highlight Projects
+
+### 🩺 AI Dermatology Chatbot – *Hebrax IMS*
+Built and deployed an intelligent chatbot for medical triage using GPT-4 and LangChain, integrated into a full-stack Angular + FastAPI app.
+
+### 🧾 Smart OCR System – *Sintad*
+Reduced invoice processing time by 70% with a GCP Document AI pipeline and FastAPI backend, saving 200+ hours/month.
+
+### 💬 Customer Support Agent
+Architected a GPT-4-powered assistant automating 30% of support interactions, improving CSAT by 15%.
+
+---
+
+## 🧪 Current Interests
+
+- Autonomous AI agents 🤖  
+- Real-time data workflows 🔄  
+- Human-AI interfaces and prompt engineering ✍️  
+- Open-source collaboration 💻
+
+---
+
+## 🌱 Let's Connect!
+
+I'm always open to discussing projects where **AI meets impact**. Whether you're building something ambitious, automating a legacy process, or exploring conversational agents—I'd love to hear from you.
+
+---
+
+🛠️ *This README is powered by curiosity, creativity, and coffee (A LOT OF COFFEE).*
