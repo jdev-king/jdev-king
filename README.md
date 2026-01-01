@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Jesús Sebastián Diez Plasencia
 
-### 🚀 Tech Lead | AI Engineer | Full Stack Developer
+### 🚀 Tech Lead | Full Stack AI Engineer
 
 <p align="left">
   <a href="https://linkedin.com/in/jesusdiezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesusdiezp" height="30" width="40" /></a>
